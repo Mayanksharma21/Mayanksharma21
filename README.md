@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mayanksharma21
-- 👀 I’m interested in Game Developement and AI
-- 🌱 I’m currently learning  Machine learning
+- 👀 I’m interested in Data structure with C language
+- 🌱 I’m currently learning  CPP
 - 📫 How to reach me < mayank.sharmaa219@gmail.com >
 
 <!---
