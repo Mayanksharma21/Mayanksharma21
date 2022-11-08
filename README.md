@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Mayanksharma21
-- 👀 I’m interested in Data structure with C language
-- 🌱 I’m currently learning  CPP
+- 👋 Hi, I’m Mayank Sharma
+- 👀 I’m interested in C++ Programming || Flutter || DSA
 - 📫 How to reach me < mayank.sharmaa219@gmail.com >
