@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter & Firebase intermediate topics**
 
-- 💬 Ask me about **C++, DSA, Flutter Basics**
+- 💬 Ask me about **C++, DSA, Flutter Basics, React**
 
 - 📫 How to reach me **mayank.sharmaa219@gmail.com**
 
