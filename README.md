@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
 <h3 align="center">A self-motivated Flutter developer</h3>
 
-- 🌱 I’m currently learning **Flutter & Firebase intermediate topics**
+- 🌱 I’m currently learning **Flutter, BLockchain, Ethereum**
 
-- 💬 Ask me about **C++, DSA, Flutter Basics, React**
+- 💬 Ask me about **C++, DSA, Flutter Basics, Blockchain**
 
 - 📫 How to reach me **mayank.sharmaa219@gmail.com**
 
