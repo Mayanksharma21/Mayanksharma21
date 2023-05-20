@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
-<h3 align="center">A self-motivated Flutter developer</h3>
+<h3 align="center">Blockchain Enthusiast</h3>
 
 - 🌱 I’m currently learning **Flutter, BLockchain, Ethereum**
 
