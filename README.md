@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mayank.sharmaa219@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1im60iNwjrUhFgRW5Myhfs2XtJ9vEjmTh/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1foiumpBYPazvAqTV_103YT2P4rZXxArM/view?usp=sharing)
 
 - ⚡ Fun fact **I am a good Badminton Player**
 
