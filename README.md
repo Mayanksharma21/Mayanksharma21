@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mayank Sharma</h1>
 <h3 align="center">< Blockchain Enthusiast ></h3>
 
-- 🌱 I’m currently learning **Flutter, BLockchain, Ethereum**
+- 🌱 I’m currently learning **Flutter, BLockchain, MERN**
 
-- 💬 Ask me about **C++, DSA, Flutter Basics, Blockchain**
+- 💬 Ask me about **C++, JavaScript, React.js, Node.js, MongoDB, SQL, Flutter Basics, Blockchain**
 
 - 📫 How to reach me **mayank.sharmaa219@gmail.com**
 
